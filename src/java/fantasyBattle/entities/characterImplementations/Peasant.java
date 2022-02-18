@@ -1,8 +1,8 @@
-package entities.characterImplementations;
+package fantasyBattle.entities.characterImplementations;
 
-import behavior.attack.PitchforkWarrior;
-import behavior.movement.Walker;
-import entities.FairytaleCharacter;
+import fantasyBattle.behavior.attack.PitchforkWarrior;
+import fantasyBattle.behavior.movement.Walker;
+import fantasyBattle.entities.FairytaleCharacter;
 
 public class Peasant extends FairytaleCharacter {
 

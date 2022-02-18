@@ -1,8 +1,8 @@
-package entities.characterImplementations;
+package fantasyBattle.entities.characterImplementations;
 
-import behavior.attack.BowShooter;
-import behavior.movement.Walker;
-import entities.FairytaleCharacter;
+import fantasyBattle.behavior.attack.BowShooter;
+import fantasyBattle.behavior.movement.Walker;
+import fantasyBattle.entities.FairytaleCharacter;
 
 public class Archer extends FairytaleCharacter {
 

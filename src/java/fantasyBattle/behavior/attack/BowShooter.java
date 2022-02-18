@@ -1,4 +1,4 @@
-package behavior.attack;
+package fantasyBattle.behavior.attack;
 
 public class BowShooter extends Damage{
     public BowShooter(int amountOfDamage, int range, int hitProbability) {

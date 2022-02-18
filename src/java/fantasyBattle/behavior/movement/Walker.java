@@ -1,4 +1,4 @@
-package behavior.movement;
+package fantasyBattle.behavior.movement;
 
 public class Walker implements MovementBehavior{
     @Override

@@ -1,7 +1,7 @@
-package entities;
+package fantasyBattle.entities;
 
-import behavior.attack.Damage;
-import behavior.movement.MovementBehavior;
+import fantasyBattle.behavior.attack.Damage;
+import fantasyBattle.behavior.movement.MovementBehavior;
 
 public abstract class FairytaleCharacter {
 

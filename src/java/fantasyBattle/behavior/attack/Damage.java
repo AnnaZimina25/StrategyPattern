@@ -1,4 +1,4 @@
-package behavior.attack;
+package fantasyBattle.behavior.attack;
 
 public abstract class Damage {
 

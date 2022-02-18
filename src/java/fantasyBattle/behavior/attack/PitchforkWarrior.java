@@ -1,4 +1,4 @@
-package behavior.attack;
+package fantasyBattle.behavior.attack;
 
 public class PitchforkWarrior extends Damage{
     public PitchforkWarrior(int amountOfDamage, int range, int hitProbability) {

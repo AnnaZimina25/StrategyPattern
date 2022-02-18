@@ -1,4 +1,4 @@
-package behavior.movement;
+package fantasyBattle.behavior.movement;
 
 public class Rider implements MovementBehavior{
     @Override

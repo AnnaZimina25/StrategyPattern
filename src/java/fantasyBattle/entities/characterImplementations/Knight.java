@@ -1,8 +1,8 @@
-package entities.characterImplementations;
+package fantasyBattle.entities.characterImplementations;
 
-import behavior.attack.SwordWarrior;
-import behavior.movement.Rider;
-import entities.FairytaleCharacter;
+import fantasyBattle.behavior.attack.SwordWarrior;
+import fantasyBattle.behavior.movement.Rider;
+import fantasyBattle.entities.FairytaleCharacter;
 
 public class Knight extends FairytaleCharacter {
 

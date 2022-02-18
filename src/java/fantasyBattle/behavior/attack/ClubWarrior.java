@@ -1,4 +1,4 @@
-package behavior.attack;
+package fantasyBattle.behavior.attack;
 
 public class ClubWarrior extends Damage{
     public ClubWarrior(int amountOfDamage, int range, int hitProbability) {

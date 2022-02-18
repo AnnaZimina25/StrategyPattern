@@ -1,8 +1,8 @@
-package entities.characterImplementations;
+package fantasyBattle.entities.characterImplementations;
 
-import behavior.attack.ClubWarrior;
-import behavior.movement.Walker;
-import entities.FairytaleCharacter;
+import fantasyBattle.behavior.attack.ClubWarrior;
+import fantasyBattle.behavior.movement.Walker;
+import fantasyBattle.entities.FairytaleCharacter;
 
 public class Troll extends FairytaleCharacter {
 

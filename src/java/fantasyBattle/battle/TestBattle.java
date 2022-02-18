@@ -1,7 +1,7 @@
-package battle;
+package fantasyBattle.battle;
 
-import entities.FairytaleCharacter;
-import entities.characterImplementations.*;
+import fantasyBattle.entities.FairytaleCharacter;
+import fantasyBattle.entities.characterImplementations.*;
 
 public class TestBattle {
 
